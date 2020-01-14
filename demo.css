@@ -1,0 +1,23 @@
+h1{
+    font-family: Calibri; 
+    font-size: 40pt;         
+    font-style: normal; 
+    font-weight: bold; 
+    color:red;
+    text-align: center; 
+    text-decoration: underline
+  }
+  
+  table{
+    font-family: Calibri; 
+    color:white; 
+    font-size: 13pt; 
+    font-style: normal;
+    font-weight: bold;
+    text-align:; 
+    background-color: pink; 
+    border: 2px solid black;
+  }
+  table.inner{
+    border: 0px
+  }
